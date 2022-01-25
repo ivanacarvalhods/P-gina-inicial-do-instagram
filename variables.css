@@ -1,0 +1,8 @@
+var {
+  .dark-mode:root {
+    --background-page: #040130;
+    --background-card: #dddddd;
+    --background-icons: #5c5c5c;
+    --font-color: #000000;
+    --font-hover: #dadada;
+  }
